@@ -1,1 +1,3 @@
 @import url("reset.css");/* подключение стиля резет css в стиль CSS */
+@import url("header.css");
+@import url("main.css")
