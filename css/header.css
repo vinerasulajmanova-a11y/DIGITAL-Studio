@@ -7,7 +7,7 @@
 
 }
 
-.nav_list {
+.header__nav_list {
   display: flex;
   gap: 12px;
 }
